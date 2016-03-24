@@ -1,0 +1,24 @@
+{
+  "name": "node-combo-answer",
+  "version": "1.0.0",
+  "description": "a middleware for koa. parse combo url for seajs-combo.",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/freestyle21/koa-combo-answer.git"
+  },
+  "keywords": [
+    "koa",
+    "combo",
+    "middleware"
+  ],
+  "author": "qubaoming",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/freestyle21/koa-combo-answer/issues"
+  },
+  "homepage": "https://github.com/freestyle21/koa-combo-answer#readme"
+}
