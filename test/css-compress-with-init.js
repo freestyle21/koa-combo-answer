@@ -1,5 +1,5 @@
 /*
- * Author: qubaoming@didichuxing.com
+ * Author: qubaoming@gmail.com
  */
 
 "use strict";
